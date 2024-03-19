@@ -1,2 +1,10 @@
-:root(
-    --cor-de-fundo::backdrop
+:root{
+    --cor-de-fundo: #1E1E1E;
+    --VERE: #6FFF57;
+    --BRANCO: #FFFFFF;
+    --BOTAO-ATIVO: #3A375E;
+    --BOTAO-INATIVO: #rgba(58, 55, 94, 0.5);
+    --texto-fundo:  #rgba(58, 55, 94, 0,3);
+
+}
+    
