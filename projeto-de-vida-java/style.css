@@ -16,7 +16,7 @@ body {
 
 
 
-    .conteudo-principal {
+     .conteudo-principal {
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -24,19 +24,19 @@ body {
         max-width: 1200px;
         width: 100%;
         margin: 0 auto;
-    }
+     }
 
-    .titulo-principal {
+     .titulo-principal {
         text-align: left;
         width: 100%;
         font-size: 32px;
-    }
+     }
 
-    .titulo-principal span {
+     .titulo-principal span {
         color: var(--verde);
-    }
+     }
 
-    .botao{
+     .botao{
         font-family: "Crakra Petch", sans-serif;
         background-color: var(--botao-inativo);
         color: var(--branco);
@@ -49,16 +49,16 @@ body {
         border-left
         border-right:  4px solid var(--botao-ativo);
         border-top: none;
-    }
+     }
         
-.botoes{       
+ .botoes{       
     diplay: block;
-}    
-@media screen and{min-width: 768px) {
+ }    
+ @media screen and{min-width: 768px) {
     .botoes{
-  display: flex;
-}        
+        display: flex;
+    }        
             
-{
+} 
 
         
